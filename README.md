@@ -4,7 +4,7 @@
 
 <div align="center">
     <h1>Rest Gres</h1>
-    <img src="https://www.codefactor.io/repository/github/nightbase/account-service/badge" alt="CodeFactor" />
+    <img src="https://www.codefactor.io/repository/github/nightbase/restgres/badge" alt="CodeFactor" />
 </div>
 
 <br><br>
